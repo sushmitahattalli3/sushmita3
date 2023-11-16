@@ -26,4 +26,4 @@ jobs:
     
     - name: Python application
       run: |
-        python gfg.py
+        python pyunitcvsn.py
